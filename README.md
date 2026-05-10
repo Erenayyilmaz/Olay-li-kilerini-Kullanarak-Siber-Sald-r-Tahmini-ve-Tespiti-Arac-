@@ -5,6 +5,10 @@
 ## 📌 Proje Özeti
 Bu bitirme projesi, uç noktalara (endpoint) kurulan ajanlardan toplanan Windows ve Linux olay günlüklerini (event logs) analiz ederek, gelişmiş siber tehditleri tespit eden yapay zeka destekli bir güvenlik aracıdır. Geleneksel kural tabanlı sistemlerin aksine, bu sistem makine öğrenmesi algoritmaları ve **olay korelasyonu (event correlation)** teknikleri kullanarak normal log akışındaki anomalileri tespit eder.
 
+## 🎬 Proje Demo (PoC) Videosu
+Sistemin nasıl çalıştığını, anomali tespit anlarını ve üretilen raporları detaylı incelemek için PoC (Proof of Concept) videomuzu izleyebilirsiniz:
+🔗 **[Proje Demo Videosunu İzlemek İçin Tıklayın](https://www.youtube.com/watch?v=Jb4mSNA2RDs)**
+
 ## 🧠 Geliştirilen Sistemin Yetenekleri
 
 *   **Veri Ön İşleme (Data Preprocessing):** Saniyede yüzlerce satır akan karmaşık log verilerinin (IP, MAC, information, severity vb.) temizlenmesi ve makine öğrenmesi modellerine uygun vektörlere dönüştürülmesi.
